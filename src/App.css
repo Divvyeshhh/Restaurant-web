@@ -1,0 +1,57 @@
+/* Navbar */
+#nav{
+  background: linear-gradient(to right, #74bde0, #a1e1fa);
+  color: white;
+}
+
+#navbar-title{
+  color: white;
+  font-weight: 500;
+}
+
+/* Create trip card */
+#plan-title, #plan-subtxt{
+  color: #3b7197;
+}
+
+#create-button{
+  background-color: #3b7197;
+  border: none;
+}
+
+/* Hero */
+#hero{
+  margin-top: 30px;
+}
+
+#cover-title, #cover-subtext{
+  text-align: center;
+}
+
+#cover-input{
+  margin: 100px 0px 0px 180px;
+}
+
+#trip-button{
+  background-color: #3b7197;
+  border: none;
+}
+
+#contact-card{
+  background-color: #a1e1fa;
+}
+
+#contact-input{
+  margin: 15px 0px 0px 0px;
+}
+
+#contact-button{
+  width: 20%;
+  background-color: #3b7197;
+  border: none;  
+}
+
+#footer-link{
+  color:#3b7197;
+  margin: 0px 0px 20px 0px;
+}
